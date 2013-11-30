@@ -29,5 +29,5 @@ $ ->
   # to get code for summernote
   summer_note.closest('form').submit ->
     # alert $('#post_content').code()[0]
-    summer_note.val summer_note.code()[0]
+    summer_note.val summer_note.code()
     true
