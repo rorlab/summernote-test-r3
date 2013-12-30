@@ -14,4 +14,5 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require summernote.min
+//= require lang/summernote-ko-KR
 //= require_tree .

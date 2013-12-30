@@ -12,5 +12,7 @@
 
   <div class="form-actions">
     <%= f.button :submit %>
+    <%= link_to 'Show', @post, class:'btn' if @post.persisted? %>
+    <%= link_to 'Back', posts_path, class:'btn' %>
   </div>
 <% end %>
