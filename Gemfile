@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.16'
+gem 'rails', '3.2.19'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -15,6 +15,7 @@ group :assets do
   gem 'coffee-rails', '~> 3.2.1'
   gem 'bootstrap-sass'
   gem 'summernote-rails', github: 'rorlab/summernote-rails'
+  gem 'codemirror-rails'
   gem 'font-awesome-sass'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
