@@ -13,8 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require bootstrap
-//= require summernote.min
-//= require lang/summernote-ko-KR
 //= require codemirror
 //= require codemirror/modes/ruby
 //= require codemirror/modes/sass
@@ -32,4 +30,6 @@
 //= require codemirror/modes/yaml
 //= require codemirror/modes/slim
 //= require codemirror/modes/php
+//= require summernote.min
+//= require lang/summernote-ko-KR
 //= require_tree .

@@ -12,6 +12,5 @@ Development Stack :
 
 ## Changelog
 
-
 * Rails gem was updated from 3.2.16 to 3.2.19.
-* Codemirror-rails gem was added for Codeview mode with Codemirror, but I'm sorry for not working.
+* Codemirror-rails gem was added for Codeview mode with Codemirror
