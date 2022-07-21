@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/rorlab/summernote-rails.git
-  revision: 04c838a2afba98e97fc73402b6211ebb5463f3fa
+  remote: https://github.com/rorlab/summernote-rails.git
+  revision: dd92b3cd21cfa573daf5d510b08b96698bd0e295
   specs:
-    summernote-rails (0.5.10.2)
+    summernote-rails (0.8.17.0)
       railties (>= 3.1)
 
 GEM
@@ -109,7 +109,7 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
-    tzinfo (0.3.41)
+    tzinfo (0.3.61)
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
